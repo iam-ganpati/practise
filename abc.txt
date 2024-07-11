@@ -1,3 +1,4 @@
 hi this is the 1st commit
 
 this is second commit
+ git fetch 3rd
